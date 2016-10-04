@@ -1,0 +1,16 @@
+*{
+  color: grey;
+  background-color: #202326;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  margin-right: 16px;
+
+}
+
+section {
+  border-style: solid;
+}
