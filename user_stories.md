@@ -34,9 +34,10 @@
   -You should be able to keep clicking to see new images
 7. Write the logic in the event handler to keep the same image from appearing twice in a row.
   -Put in a console.log() message to appear when it catches a duplicate. That is how you know it is working.
-9. Track clicks on the image and also keep an ongoing tally of total clicks
-10. Once that is working work on expanding to three simultaneous images. Your non-duplicating logic will need to be expanded and adapted
-11. See if you can accurately capture clicks on any one of the three images by logging the name of the image you clicked
-12. Keep going. AC(P) often. Remember that regular commits are key and that you do not need to push every time. They can add up.
-13. Work on branches as you move to a big new section of work that might break something you did previously. Makes for easy rollback points.
-14. Little bits, little bites... test often!
+8. Track clicks on the image and also keep an ongoing tally of total clicks
+9. Once that is working work on expanding to three simultaneous images. Your non-duplicating logic will need to be expanded and adapted
+10. See if you can accurately capture clicks on any one of the three images by logging the name of the image you clicked.
+11. Add a list and a chart.
+
+ Keep going. AC(P) often. Remember that regular commits are key and that you do not need to push every time. They can add up.
+ Work on branches as you move to a big new section of work that might break something you did previously. Makes for easy rollback points.

@@ -13,4 +13,5 @@ img {
 
 section {
   border-style: solid;
+  cursor: pointer;
 }
